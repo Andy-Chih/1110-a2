@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Flynn Nyhof
+    uid: u7650207 
+  - name: Haochen Gong
+    uid: u7756923
+  - name: Andy Chih
+    uid: u7574003
